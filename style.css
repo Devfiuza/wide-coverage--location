@@ -1,0 +1,167 @@
+* {
+    font-family: "Poppins", serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header {
+    margin-top: 47px;
+    margin-left: 42px;
+
+}
+
+.link-header {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #17233D;
+    cursor: pointer;
+    margin-right: 32px;
+    text-align: center;
+    letter-spacing: 0, 875px;
+}
+
+.button-header {
+    width: 124px;
+    height: 51px;
+    background: #6FBF44;
+    border-radius: 6px;
+    border: 1px solid #4cb538;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: #ffffff;
+    letter-spacing: 1px;
+}
+
+.logo-image {
+    width: 534px;
+    height: 467px;
+    margin: 163px 0 0 121px;
+    display: inline-block;
+
+}
+
+section {
+    display: inline-block;
+    margin-left: 84px;
+    width: 493px;
+}
+
+h1 {
+    width: 582px;
+    height: 164 px;
+    font-size: 62px;
+    font-weight: 700;
+    line-height: 82px;
+    color: #161A49;
+
+}
+
+p {
+
+    height: 99px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    color: #4B505A;
+    margin-top: 47px;
+    margin-bottom: 55px;
+    letter-spacing: 0.5px;
+
+
+}
+
+a {
+    width: 112px;
+    height: 27px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    color: #6FBF44;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+
+@media screen and (max-width: 560px) {
+
+    body {
+        width: 50%;
+        height: 100%;
+    }
+
+    header :not(.button-header) {
+        display: none;
+
+
+    }
+    section{
+        position: absolute;
+        top:36%;
+        margin-left: -7px;
+    }
+
+    .button-header {
+        position: absolute;
+        right: -60px;
+    }
+
+    main {
+        position: static;
+        display: block;
+        
+
+    }
+
+    h1 {
+        color: #161A49;
+        text-align: center;
+        font-size: 30px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 30px;
+        /* 100% */
+        letter-spacing: 0.596px;
+        margin-left: -46px;
+    }
+
+    p {
+        color: #4B505A;
+        text-align: center;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 33px;
+        /* 183.333% */
+        letter-spacing: 0.5px;
+        margin-left: 10px;
+
+    }
+
+    a {
+        color: #6FBF44;
+        font-family: Poppins;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        letter-spacing: 1px;
+        text-align: center;
+        margin:26px 139px 76px 179px
+        
+
+    }
+
+    .logo-image {
+        position: absolute;
+        bottom: -10%;
+        margin-left:84px ;
+        width: 312px;
+        height: 288px;
+
+    }
+    
+}
