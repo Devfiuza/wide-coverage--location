@@ -13,4 +13,4 @@
 <br>
 <h4>E aqui eu aprendi sobre responsividade :</h4>
 <br>
-<img src="">
+<img src="https://github.com/Devfiuza/Primeiro-projeto-responsivo/blob/main/img/Wide%20coverage.mobile.png?raw=true">
