@@ -9,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
-<img src=""/>
+<img src="https://github.com/Devfiuza/Primeiro-projeto-responsivo/blob/main/img/wide%20coverage.desktop.png?raw=true"/>
 <br>
 <h4>E aqui eu aprendi sobre responsividade :</h4>
 <br>
