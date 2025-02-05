@@ -1,4 +1,4 @@
-<h1>We care</h1>
+<h1>Wide coverage</h1>
 <br>
 <br>
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodoldomori.com.br/devclub">Devclub</a></h2>
