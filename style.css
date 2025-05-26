@@ -98,9 +98,10 @@ a {
 
 
     }
-    section{
+
+    section {
         position: absolute;
-        top:36%;
+        top: 36%;
         margin-left: -7px;
     }
 
@@ -112,11 +113,13 @@ a {
     main {
         position: static;
         display: block;
-        
+
 
     }
 
     h1 {
+        display: table-cell;
+        align-items: center;
         color: #161A49;
         text-align: center;
         font-size: 30px;
@@ -129,6 +132,7 @@ a {
     }
 
     p {
+        display: flex;
         color: #4B505A;
         text-align: center;
         font-size: 18px;
@@ -150,18 +154,16 @@ a {
         line-height: normal;
         letter-spacing: 1px;
         text-align: center;
-        margin:26px 139px 76px 179px
-        
-
+        margin: 26px 139px 76px 179px
     }
 
     .logo-image {
         position: absolute;
         bottom: -10%;
-        margin-left:84px ;
+        margin-left: 84px;
         width: 312px;
         height: 288px;
 
     }
-    
+
 }
